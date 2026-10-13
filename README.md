@@ -12,7 +12,9 @@ Esta atividade roda na sua máquina, em aula. O programa é uma página onde voc
 
 ## Como rodar
 
-Defina a chave e inicie o programa, dentro da pasta do projeto.
+Clone o seu repositório. O endereço é `https://github.com/lab-rodrigor/atividade-llm-chamados-` seguido do começo do seu e-mail institucional: para `joao.silva@dcx.ufpb.br`, fica `atividade-llm-chamados-joao.silva`. Configure o e-mail do DCX no git antes do primeiro commit, com `git config user.email "seu.nome@dcx.ufpb.br"`.
+
+Depois defina a chave e inicie o programa, dentro da pasta do projeto.
 
 Linux e macOS:
 
@@ -85,4 +87,4 @@ Escreva 3 chamados seus que ainda enganam o modelo, mesmo com o seu melhor promp
 
 ## Entrega
 
-Preencha o `PROMPT.md`, confira que o `prompt.txt` tem a sua versão final e envie os dois arquivos ao professor, na forma combinada em aula.
+Preencha o `PROMPT.md`, confira que o `prompt.txt` tem a sua versão final, faça o commit dos dois arquivos e envie com `git push` para o seu repositório.
